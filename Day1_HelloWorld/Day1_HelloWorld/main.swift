@@ -10,3 +10,8 @@ import Foundation
 
 print("Hello, World!, Ryan")
 
+let obj = MyClass() // MyClass.swift에 선언됨
+obj.birthYear = 1999
+print(obj.age)
+obj.age = 100
+

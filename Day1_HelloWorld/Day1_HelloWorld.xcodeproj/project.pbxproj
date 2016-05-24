@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		9468A3331CF3E0C800A9F0FB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9468A3321CF3E0C800A9F0FB /* main.swift */; };
+		9468A33F1CF434F300A9F0FB /* MyClass2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9468A33E1CF434F300A9F0FB /* MyClass2.swift */; };
+		9468A3411CF434FF00A9F0FB /* MyClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9468A3401CF434FF00A9F0FB /* MyClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,6 +28,8 @@
 		9468A32F1CF3E0C800A9F0FB /* Day1_HelloWorld */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Day1_HelloWorld; sourceTree = BUILT_PRODUCTS_DIR; };
 		9468A3321CF3E0C800A9F0FB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9468A3391CF3E19700A9F0FB /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
+		9468A33E1CF434F300A9F0FB /* MyClass2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MyClass2.swift; path = ../MyClass2.swift; sourceTree = "<group>"; };
+		9468A3401CF434FF00A9F0FB /* MyClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MyClass.swift; path = ../MyClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 		9468A3311CF3E0C800A9F0FB /* Day1_HelloWorld */ = {
 			isa = PBXGroup;
 			children = (
+				9468A33E1CF434F300A9F0FB /* MyClass2.swift */,
+				9468A3401CF434FF00A9F0FB /* MyClass.swift */,
 				9468A3321CF3E0C800A9F0FB /* main.swift */,
 				9468A3391CF3E19700A9F0FB /* MyPlayground.playground */,
 			);
@@ -122,6 +128,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				9468A3331CF3E0C800A9F0FB /* main.swift in Sources */,
+				9468A33F1CF434F300A9F0FB /* MyClass2.swift in Sources */,
+				9468A3411CF434FF00A9F0FB /* MyClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
