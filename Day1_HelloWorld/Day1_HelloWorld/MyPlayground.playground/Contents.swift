@@ -70,3 +70,5 @@ let index2 = index.advancedBy(3)
 str[index2]
 
 
+
+
