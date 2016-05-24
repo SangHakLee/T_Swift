@@ -39,12 +39,21 @@ class Person {
 
 
 class Rectangle {
-    var width = 0
-    var height = 0
+//    var width = 0
+    var width : Int
+//    var height = 0
+    var height : Int
     
     // get 전용의 계산 프로퍼티
     var isSquare : Bool {
         return width == height
+    }
+    
+    var name : String?
+    
+    init(width : Int, height : Int){
+        self.width = width
+        self.height = height
     }
 }
 

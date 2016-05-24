@@ -29,10 +29,10 @@ print ("age : ", age)
 
 
 
-var rect = Rectangle()
-rect.width = 30
-rect.height = 30
-print ("isSquare ? ", rect.isSquare)
+//var rect = Rectangle()
+//rect.width = 30
+//rect.height = 30
+//print ("isSquare ? ", rect.isSquare)
 
 
 var obj1 = MyClass2()
@@ -54,3 +54,10 @@ print ("counter.count : ", counter.count)
 
 counter.incrementBy(3, numberOfTimes: 5)
 print ("counter.count : ", counter.count)
+
+
+//var obj10 = Rectangle()
+//print (obj10.width)
+
+var obj11 = Rectangle(width: 70, height: 80)
+print (obj11.width)
