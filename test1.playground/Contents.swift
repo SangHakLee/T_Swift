@@ -9,12 +9,13 @@ print("Hello, \(str)")
 
 let i1 = 1 + 2
 let i2 = 1+2
-//let i3 = 1+ 2
-//let i4 = 1 +2
+//let i3 = 1+ 2 //에러
+//let i4 = 1 +2 //에러
 
 
 1...10
 1..<10
+
 
 
 var i = 1

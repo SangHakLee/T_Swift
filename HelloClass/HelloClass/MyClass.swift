@@ -16,6 +16,8 @@ class MyClass: NSObject {
 //    var strProperty : String //에러 초기값 없는데 옵셔널이 아니라
 }
 
+//print ("Hello") //에러
+
 
 class Person {
     // 상수
