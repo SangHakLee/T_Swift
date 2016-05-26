@@ -111,11 +111,27 @@ superman.fly()
 
 
 
+////////////////////////
+//연산자
+
+struct Point {
+    var x : Int
+    var y : Int
+}
+
+func ==(lhs : Point, rhs : Point) -> Bool{
+    return true
+}
+
+let p1 = Point(x: 10, y: 10)
+let p2 = Point(x: 10, y: 10)
 
 
 
 
-
+////////////////////
+//접근 조절
+let obj1 =
 
 
 

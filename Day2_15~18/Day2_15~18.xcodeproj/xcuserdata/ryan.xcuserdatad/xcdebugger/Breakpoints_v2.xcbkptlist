@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Day2_15~18/main.swift"
+            timestampString = "485922472.426534"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "MyClass"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day2_15_18.MyClass.__deallocating_deinit"
+                  moduleName = "Day2_15~18"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryan/Swift/Tacademy/Day2_15~18/Day2_15~18/main.swift"
+                  timestampString = "485922535.774504"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day2_15_18.MyClass.deinit"
+                  moduleName = "Day2_15~18"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryan/Swift/Tacademy/Day2_15~18/Day2_15~18/main.swift"
+                  timestampString = "485922535.774724"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Day2_15_18.MyClass.init () -&gt; Day2_15_18.MyClass"
+                  moduleName = "Day2_15~18"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ryan/Swift/Tacademy/Day2_15~18/Day2_15~18/main.swift"
+                  timestampString = "485922535.775578"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "8">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
